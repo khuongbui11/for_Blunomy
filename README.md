@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Crash Data Analysis and Prediction
 
 This repository contains code and analysis for the Car Crash dataset. The main aim is to explore the data, visualize the patterns, and predict the severity of accidents based on various features.
